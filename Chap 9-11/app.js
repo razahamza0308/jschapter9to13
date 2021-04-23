@@ -8,7 +8,7 @@
 // else{
 //     alert("Wrong city name entered");
 // }
-
+s
 // Question 2
 
 // var gender = prompt("Enter your gender");
